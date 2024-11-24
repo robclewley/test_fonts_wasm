@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+.DS_Store
+pygame_gui_old/
+
 # Distribution / packaging
 .Python
 build/
