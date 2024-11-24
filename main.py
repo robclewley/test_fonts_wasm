@@ -20,8 +20,9 @@ async def main():
     pygame.display.init()
 
     gui_manager = pygame_gui.UIManager(gui_dims,
-                            pygame_gui.PackageResource(package="fonts",
-                                                resource='ui_theme.json'))
+                                       "test_fonts/ui_theme.json")
+#                             pygame_gui.PackageResource(package="test_fonts",
+#                                                 resource='ui_theme.json'))
 
     text = pygame_gui.elements.UILabel(
             pygame.Rect(50, 50, 250, 30),
