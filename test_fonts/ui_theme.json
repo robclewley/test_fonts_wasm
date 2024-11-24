@@ -7,11 +7,10 @@
         },
         "font":
         {
-            "name": "fira_code",
+            "name": "noto_sans",
             "size": "14",
             "bold": "0",
-            "italic": "0",
-            "regular_resource": { "package": "fonts", "resource": "FiraCode-Regular.ttf"}
+            "italic": "0"
         }
     }
 }
