@@ -1,0 +1,17 @@
+{
+    "@test":
+    {
+        "colours":
+        {
+            "dark_bg": "#330000"
+        },
+        "font":
+        {
+            "name": "fira_code",
+            "size": "14",
+            "bold": "0",
+            "italic": "0",
+            "regular_resource": { "package": "fonts", "resource": "FiraCode-Regular.ttf"}
+        }
+    }
+}
